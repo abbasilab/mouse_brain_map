@@ -1,0 +1,5202 @@
+{
+  "280": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "DG"
+  },
+  "719": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "DG"
+  },
+  "1054": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "cm"
+  },
+  "786": {
+    "ccf_level1": "MB",
+    "ccf_level2": "MG"
+  },
+  "1135": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "PIR"
+  },
+  "624": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "CA1"
+  },
+  "781": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "ProS"
+  },
+  "1079": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "ENT"
+  },
+  "303": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "SUB"
+  },
+  "298": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "DG"
+  },
+  "936": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "POST"
+  },
+  "462": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "ENT"
+  },
+  "77": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "ENT"
+  },
+  "985": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "ENT"
+  },
+  "608": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "ENT"
+  },
+  "653": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "lfbs"
+  },
+  "242": {
+    "ccf_level1": "MB",
+    "ccf_level2": "RAmb"
+  },
+  "392": {
+    "ccf_level1": "MB",
+    "ccf_level2": "SNr"
+  },
+  "1011": {
+    "ccf_level1": "MB",
+    "ccf_level2": "SNr"
+  },
+  "239": {
+    "ccf_level1": "MB",
+    "ccf_level2": "MRN"
+  },
+  "449": {
+    "ccf_level1": "MB",
+    "ccf_level2": "PAG-MEV-SCO"
+  },
+  "259": {
+    "ccf_level1": "P",
+    "ccf_level2": "PG"
+  },
+  "1104": {
+    "ccf_level1": "P",
+    "ccf_level2": "PG"
+  },
+  "95": {
+    "ccf_level1": "P",
+    "ccf_level2": "PG"
+  },
+  "699": {
+    "ccf_level1": "MB",
+    "ccf_level2": "VTA"
+  },
+  "1172": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "lfbs"
+  },
+  "304": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "lfbs"
+  },
+  "884": {
+    "ccf_level1": "P",
+    "ccf_level2": "PRNr"
+  },
+  "422": {
+    "ccf_level1": "P",
+    "ccf_level2": "PRNr"
+  },
+  "756": {
+    "ccf_level1": "P",
+    "ccf_level2": "CS"
+  },
+  "829": {
+    "ccf_level1": "P",
+    "ccf_level2": "PG"
+  },
+  "508": {
+    "ccf_level1": "PAL",
+    "ccf_level2": "MSC"
+  },
+  "1162": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "cbf"
+  },
+  "384": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "TEa"
+  },
+  "83": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "VISp"
+  },
+  "883": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "VISp"
+  },
+  "330": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "VISp"
+  },
+  "988": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "VISp"
+  },
+  "6": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "TEa"
+  },
+  "1226": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "TEa"
+  },
+  "493": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "TEa"
+  },
+  "949": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "TEa"
+  },
+  "679": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "TEa"
+  },
+  "545": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "ENT"
+  },
+  "689": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "ENT"
+  },
+  "260": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "NLOT-COA-PAA-TR"
+  },
+  "396": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "NLOT-COA-PAA-TR"
+  },
+  "1177": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "ENT"
+  },
+  "659": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "ENT"
+  },
+  "1153": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "TEa"
+  },
+  "353": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-bfd"
+  },
+  "983": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSs"
+  },
+  "711": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSs"
+  },
+  "874": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "NLOT-COA-PAA-TR"
+  },
+  "476": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "NLOT-COA-PAA-TR"
+  },
+  "742": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "NLOT-COA-PAA-TR"
+  },
+  "346": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "AUDv"
+  },
+  "1205": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "TEa"
+  },
+  "599": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "TEa"
+  },
+  "630": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "VISl"
+  },
+  "1281": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "VISpor"
+  },
+  "263": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "AUDp"
+  },
+  "439": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSs"
+  },
+  "397": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "VISp"
+  },
+  "195": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "lfbs"
+  },
+  "721": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "TEa"
+  },
+  "693": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "CA1"
+  },
+  "704": {
+    "ccf_level1": "P",
+    "ccf_level2": "cbf"
+  },
+  "700": {
+    "ccf_level1": "P",
+    "ccf_level2": "CS"
+  },
+  "386": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "ENT"
+  },
+  "333": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "ProS"
+  },
+  "806": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "ProS"
+  },
+  "1048": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "SUB"
+  },
+  "826": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "lfbs"
+  },
+  "39": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "CA1"
+  },
+  "270": {
+    "ccf_level1": "P",
+    "ccf_level2": "TRN"
+  },
+  "933": {
+    "ccf_level1": "TH",
+    "ccf_level2": "SUB"
+  },
+  "780": {
+    "ccf_level1": "MB",
+    "ccf_level2": "RAmb"
+  },
+  "974": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "DG"
+  },
+  "1257": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "DG"
+  },
+  "1019": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "DG"
+  },
+  "7": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "VISl"
+  },
+  "1053": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "AUDp"
+  },
+  "1287": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "AUDp"
+  },
+  "798": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "VISp"
+  },
+  "791": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "VISp"
+  },
+  "683": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "VISrl"
+  },
+  "202": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "VISp"
+  },
+  "168": {
+    "ccf_level1": "MB",
+    "ccf_level2": "cm"
+  },
+  "1012": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "lfbs"
+  },
+  "301": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "lfbs"
+  },
+  "473": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "CA3"
+  },
+  "574": {
+    "ccf_level1": "MB",
+    "ccf_level2": "cm"
+  },
+  "413": {
+    "ccf_level1": "TH",
+    "ccf_level2": "MG"
+  },
+  "641": {
+    "ccf_level1": "MB",
+    "ccf_level2": "SNr"
+  },
+  "1213": {
+    "ccf_level1": "MB",
+    "ccf_level2": "cm"
+  },
+  "336": {
+    "ccf_level1": "MB",
+    "ccf_level2": "PRNr"
+  },
+  "1059": {
+    "ccf_level1": "MB",
+    "ccf_level2": "MRN"
+  },
+  "1152": {
+    "ccf_level1": "MB",
+    "ccf_level2": "MRN"
+  },
+  "282": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "cbf"
+  },
+  "777": {
+    "ccf_level1": "MB",
+    "ccf_level2": "SCm"
+  },
+  "444": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "DG"
+  },
+  "690": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "DG"
+  },
+  "275": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "POST"
+  },
+  "584": {
+    "ccf_level1": "MB",
+    "ccf_level2": "RAmb"
+  },
+  "31": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSs"
+  },
+  "1141": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "VISl"
+  },
+  "950": {
+    "ccf_level1": "MB",
+    "ccf_level2": "PAG-MEV-SCO"
+  },
+  "55": {
+    "ccf_level1": "MB",
+    "ccf_level2": "SCm"
+  },
+  "542": {
+    "ccf_level1": "MB",
+    "ccf_level2": "SCm"
+  },
+  "782": {
+    "ccf_level1": "MB",
+    "ccf_level2": "RAmb"
+  },
+  "516": {
+    "ccf_level1": "MB",
+    "ccf_level2": "RN"
+  },
+  "662": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "mfbs"
+  },
+  "441": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "POST"
+  },
+  "217": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "VISp"
+  },
+  "907": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "VISp"
+  },
+  "973": {
+    "ccf_level1": "MB",
+    "ccf_level2": "IC"
+  },
+  "701": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "SUB"
+  },
+  "1093": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "lfbs"
+  },
+  "515": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "lfbs"
+  },
+  "850": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "VISp"
+  },
+  "1159": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "VISp"
+  },
+  "1284": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSs"
+  },
+  "133": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-bfd"
+  },
+  "975": {
+    "ccf_level1": "MB",
+    "ccf_level2": "PAG-MEV-SCO"
+  },
+  "1147": {
+    "ccf_level1": "P",
+    "ccf_level2": "TRN"
+  },
+  "1046": {
+    "ccf_level1": "MB",
+    "ccf_level2": "RAmb"
+  },
+  "399": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "DG"
+  },
+  "277": {
+    "ccf_level1": "MB",
+    "ccf_level2": "SCm"
+  },
+  "1003": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "fiber tracts"
+  },
+  "620": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "VISp"
+  },
+  "102": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "VISp"
+  },
+  "534": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "mfbs"
+  },
+  "108": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "ENT"
+  },
+  "591": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "ENT"
+  },
+  "943": {
+    "ccf_level1": "MB",
+    "ccf_level2": "SCm"
+  },
+  "890": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "POST"
+  },
+  "106": {
+    "ccf_level1": "MB",
+    "ccf_level2": "SCm"
+  },
+  "3": {
+    "ccf_level1": "MB",
+    "ccf_level2": "PAG-MEV-SCO"
+  },
+  "557": {
+    "ccf_level1": "MB",
+    "ccf_level2": "MRN"
+  },
+  "355": {
+    "ccf_level1": "CB",
+    "ccf_level2": "AN"
+  },
+  "1236": {
+    "ccf_level1": "MB",
+    "ccf_level2": "MRN"
+  },
+  "532": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "ProS"
+  },
+  "1025": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "ENT"
+  },
+  "805": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "RSPv"
+  },
+  "349": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "ProS"
+  },
+  "1175": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "HATA"
+  },
+  "405": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "RSPagl"
+  },
+  "523": {
+    "ccf_level1": "MB",
+    "ccf_level2": "SCs"
+  },
+  "990": {
+    "ccf_level1": "MB",
+    "ccf_level2": "SCs"
+  },
+  "1193": {
+    "ccf_level1": "MB",
+    "ccf_level2": "SCm"
+  },
+  "1240": {
+    "ccf_level1": "MB",
+    "ccf_level2": "SCs"
+  },
+  "98": {
+    "ccf_level1": "MB",
+    "ccf_level2": "SCm"
+  },
+  "1245": {
+    "ccf_level1": "MB",
+    "ccf_level2": "SCm"
+  },
+  "1244": {
+    "ccf_level1": "MB",
+    "ccf_level2": "cm"
+  },
+  "765": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "POST"
+  },
+  "670": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "RSPd"
+  },
+  "960": {
+    "ccf_level1": "MB",
+    "ccf_level2": "PAG-MEV-SCO"
+  },
+  "28": {
+    "ccf_level1": "MB",
+    "ccf_level2": "SCm"
+  },
+  "715": {
+    "ccf_level1": "MB",
+    "ccf_level2": "PAG-MEV-SCO"
+  },
+  "512": {
+    "ccf_level1": "MB",
+    "ccf_level2": "PAG-MEV-SCO"
+  },
+  "1262": {
+    "ccf_level1": "MB",
+    "ccf_level2": "PAG-MEV-SCO"
+  },
+  "460": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "DG"
+  },
+  "38": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "NLOT-COA-PAA-TR"
+  },
+  "789": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "cm"
+  },
+  "1285": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "PIR"
+  },
+  "220": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "PIR"
+  },
+  "901": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOs"
+  },
+  "1000": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "RSPagl"
+  },
+  "281": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "ENT"
+  },
+  "313": {
+    "ccf_level1": "MB",
+    "ccf_level2": "PAG-MEV-SCO"
+  },
+  "428": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "ENT"
+  },
+  "685": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "ENT"
+  },
+  "466": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "SUB"
+  },
+  "1298": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "RSPd"
+  },
+  "2": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "RSPd"
+  },
+  "79": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "CA1"
+  },
+  "947": {
+    "ccf_level1": "MB",
+    "ccf_level2": "SCs"
+  },
+  "188": {
+    "ccf_level1": "MB",
+    "ccf_level2": "SCs"
+  },
+  "158": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "RSPv"
+  },
+  "998": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "ECT"
+  },
+  "1149": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "ProS"
+  },
+  "486": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "RSPd"
+  },
+  "969": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "RSPagl"
+  },
+  "185": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "ENT"
+  },
+  "0": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "TEa"
+  },
+  "218": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "ENT"
+  },
+  "402": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "lfbs"
+  },
+  "788": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "AIp"
+  },
+  "241": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "CA1"
+  },
+  "15": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "cm"
+  },
+  "596": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "CA3"
+  },
+  "373": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "1223": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "156": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "148": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "lfbs"
+  },
+  "36": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSs"
+  },
+  "862": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "344": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "lfbs"
+  },
+  "489": {
+    "ccf_level1": "sAMY",
+    "ccf_level2": "AAA"
+  },
+  "607": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "TT"
+  },
+  "984": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "PIR"
+  },
+  "1218": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "PIR"
+  },
+  "650": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "OT"
+  },
+  "945": {
+    "ccf_level1": "sAMY",
+    "ccf_level2": "NLOT-COA-PAA-TR"
+  },
+  "948": {
+    "ccf_level1": "PAL",
+    "ccf_level2": "MSC"
+  },
+  "340": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-n"
+  },
+  "1224": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSs"
+  },
+  "1043": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSs"
+  },
+  "205": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOp"
+  },
+  "734": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOp"
+  },
+  "146": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOs"
+  },
+  "207": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSs"
+  },
+  "446": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-ul"
+  },
+  "1142": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-ul"
+  },
+  "1075": {
+    "ccf_level1": "PAL",
+    "ccf_level2": "SI"
+  },
+  "517": {
+    "ccf_level1": "HY",
+    "ccf_level2": "LPO"
+  },
+  "331": {
+    "ccf_level1": "STRv",
+    "ccf_level2": "ACB"
+  },
+  "672": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "136": {
+    "ccf_level1": "PAL",
+    "ccf_level2": "GPe"
+  },
+  "1239": {
+    "ccf_level1": "PAL",
+    "ccf_level2": "BST-BAC"
+  },
+  "361": {
+    "ccf_level1": "PAL",
+    "ccf_level2": "SI"
+  },
+  "1119": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "PIR"
+  },
+  "183": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "PIR"
+  },
+  "1030": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "PIR"
+  },
+  "162": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "PIR"
+  },
+  "939": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "PIR"
+  },
+  "807": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "lfbs"
+  },
+  "548": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "836": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOp"
+  },
+  "164": {
+    "ccf_level1": "PAL",
+    "ccf_level2": "MSC"
+  },
+  "435": {
+    "ccf_level1": "HY",
+    "ccf_level2": "AHN-ASO"
+  },
+  "323": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOp"
+  },
+  "67": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-n"
+  },
+  "558": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSs"
+  },
+  "1029": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-m"
+  },
+  "1197": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "PIR"
+  },
+  "44": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "PIR"
+  },
+  "682": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "cm"
+  },
+  "1187": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-ul"
+  },
+  "922": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-n"
+  },
+  "1123": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-m"
+  },
+  "408": {
+    "ccf_level1": "HY",
+    "ccf_level2": "AHN-ASO"
+  },
+  "774": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "1008": {
+    "ccf_level1": "HY",
+    "ccf_level2": "ARH"
+  },
+  "536": {
+    "ccf_level1": "MY",
+    "ccf_level2": "MY"
+  },
+  "406": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "cm"
+  },
+  "657": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "882": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "AIp"
+  },
+  "290": {
+    "ccf_level1": "HY",
+    "ccf_level2": "PVpo-VMPO"
+  },
+  "1282": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "GU"
+  },
+  "16": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "GU"
+  },
+  "292": {
+    "ccf_level1": "PAL",
+    "ccf_level2": "BST-BAC"
+  },
+  "130": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "cm"
+  },
+  "423": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "mfbs"
+  },
+  "1157": {
+    "ccf_level1": "TH",
+    "ccf_level2": "PT"
+  },
+  "278": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "lfbs"
+  },
+  "160": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "AId"
+  },
+  "982": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "976": {
+    "ccf_level1": "VS",
+    "ccf_level2": "V3"
+  },
+  "45": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "lfbs"
+  },
+  "830": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "593": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSs"
+  },
+  "944": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSs"
+  },
+  "503": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "47": {
+    "ccf_level1": "VS",
+    "ccf_level2": "VL"
+  },
+  "409": {
+    "ccf_level1": "TH",
+    "ccf_level2": "AV"
+  },
+  "1056": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOp"
+  },
+  "1221": {
+    "ccf_level1": "VS",
+    "ccf_level2": "VL"
+  },
+  "1291": {
+    "ccf_level1": "VS",
+    "ccf_level2": "VL"
+  },
+  "856": {
+    "ccf_level1": "VS",
+    "ccf_level2": "V3"
+  },
+  "498": {
+    "ccf_level1": "TH",
+    "ccf_level2": "PVT"
+  },
+  "577": {
+    "ccf_level1": "LSX",
+    "ccf_level2": "LSc"
+  },
+  "646": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOp"
+  },
+  "617": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "AON"
+  },
+  "751": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "cm"
+  },
+  "11": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "TT"
+  },
+  "1055": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-m"
+  },
+  "407": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOp"
+  },
+  "813": {
+    "ccf_level1": "HY",
+    "ccf_level2": "TU"
+  },
+  "1290": {
+    "ccf_level1": "PAL",
+    "ccf_level2": "TRS"
+  },
+  "268": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "PIR"
+  },
+  "1269": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "PIR"
+  },
+  "66": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "PIR"
+  },
+  "229": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "NLOT-COA-PAA-TR"
+  },
+  "1034": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-ll"
+  },
+  "1107": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-ll"
+  },
+  "796": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "lfbs"
+  },
+  "831": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "lfbs"
+  },
+  "815": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "ACAv"
+  },
+  "1129": {
+    "ccf_level1": "HY",
+    "ccf_level2": "SFO"
+  },
+  "762": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "RSPd"
+  },
+  "461": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "ACAv"
+  },
+  "80": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "RSPagl"
+  },
+  "243": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "VISa"
+  },
+  "934": {
+    "ccf_level1": "CTXsp",
+    "ccf_level2": "EP"
+  },
+  "812": {
+    "ccf_level1": "CTXsp",
+    "ccf_level2": "EP"
+  },
+  "565": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "IG"
+  },
+  "668": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "ACAv"
+  },
+  "69": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "RSPd"
+  },
+  "33": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "RSPv"
+  },
+  "1060": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOs"
+  },
+  "1133": {
+    "ccf_level1": "PAL",
+    "ccf_level2": "SI"
+  },
+  "932": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "CLA"
+  },
+  "875": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "VISC"
+  },
+  "618": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "AIp"
+  },
+  "451": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "RSPv"
+  },
+  "482": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "ACAv"
+  },
+  "1028": {
+    "ccf_level1": "CTXsp",
+    "ccf_level2": "EP"
+  },
+  "632": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "972": {
+    "ccf_level1": "CTXsp",
+    "ccf_level2": "EP"
+  },
+  "488": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "BA-MEA"
+  },
+  "1251": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "PIR"
+  },
+  "1130": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-tr"
+  },
+  "175": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "PIR"
+  },
+  "1026": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-m"
+  },
+  "139": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSs"
+  },
+  "720": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOs"
+  },
+  "250": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOs"
+  },
+  "189": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "ORBl"
+  },
+  "710": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "ORBl"
+  },
+  "797": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOs"
+  },
+  "400": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "AUDp"
+  },
+  "561": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-bfd"
+  },
+  "374": {
+    "ccf_level1": "STRv",
+    "ccf_level2": "OT"
+  },
+  "347": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "118": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "1235": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "cm"
+  },
+  "819": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "749": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "210": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "513": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "424": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "cm"
+  },
+  "1178": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "cm"
+  },
+  "262": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "AOB"
+  },
+  "1184": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "299": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "1113": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "AOB"
+  },
+  "956": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "AON"
+  },
+  "1233": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "1066": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "167": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "1039": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "1261": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "AId"
+  },
+  "1267": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOs"
+  },
+  "1156": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOs"
+  },
+  "747": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "AON"
+  },
+  "615": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "AON"
+  },
+  "174": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "321": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "AON"
+  },
+  "295": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "ORBvl"
+  },
+  "703": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "1265": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "521": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOs"
+  },
+  "436": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOs"
+  },
+  "587": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOs"
+  },
+  "504": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "201": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOs"
+  },
+  "12": {
+    "ccf_level1": "CB",
+    "ccf_level2": "AN"
+  },
+  "736": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "PL"
+  },
+  "92": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOs"
+  },
+  "752": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "401": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "cm"
+  },
+  "967": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "cm"
+  },
+  "803": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "214": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "228": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "50": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "cm"
+  },
+  "54": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "1094": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "21": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "1146": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "567": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "316": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "1203": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "1258": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "1294": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "1202": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOs"
+  },
+  "246": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "AId"
+  },
+  "57": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "ORBl"
+  },
+  "748": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOs"
+  },
+  "197": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOs"
+  },
+  "403": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOs"
+  },
+  "993": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "AON"
+  },
+  "65": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "AON"
+  },
+  "1100": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "AON"
+  },
+  "634": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOs"
+  },
+  "551": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "AON"
+  },
+  "728": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "ORBvl"
+  },
+  "467": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "ORBl"
+  },
+  "1044": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "ORBvl"
+  },
+  "648": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "571": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "PL"
+  },
+  "684": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "AIv"
+  },
+  "827": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "PL"
+  },
+  "1230": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "AId"
+  },
+  "151": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "PL"
+  },
+  "573": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "AId"
+  },
+  "847": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOs"
+  },
+  "478": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "AON"
+  },
+  "997": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "cm"
+  },
+  "687": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-ll"
+  },
+  "896": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "fiber tracts"
+  },
+  "578": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "lfbs"
+  },
+  "272": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "lfbs"
+  },
+  "1288": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSs"
+  },
+  "750": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "lfbs"
+  },
+  "1192": {
+    "ccf_level1": "VS",
+    "ccf_level2": "VL"
+  },
+  "1272": {
+    "ccf_level1": "VS",
+    "ccf_level2": "VL"
+  },
+  "564": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "mfbs"
+  },
+  "900": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-ll"
+  },
+  "760": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "CA3"
+  },
+  "248": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-ll"
+  },
+  "212": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "RSPv"
+  },
+  "157": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "RSPv"
+  },
+  "127": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "RSPd"
+  },
+  "1181": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "ACAv"
+  },
+  "994": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "RSPv"
+  },
+  "1198": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "RSPv"
+  },
+  "841": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-bfd"
+  },
+  "645": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-ul"
+  },
+  "287": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-bfd"
+  },
+  "585": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSs"
+  },
+  "533": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-bfd"
+  },
+  "735": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-bfd"
+  },
+  "463": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-bfd"
+  },
+  "724": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "RSPd"
+  },
+  "1024": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "RSPv"
+  },
+  "691": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "RSPv"
+  },
+  "1115": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "RSPv"
+  },
+  "35": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSs"
+  },
+  "1132": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSs"
+  },
+  "56": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "1190": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-m"
+  },
+  "1013": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "926": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "589": {
+    "ccf_level1": "VS",
+    "ccf_level2": "V3"
+  },
+  "475": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "lfbs"
+  },
+  "87": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "mfbs"
+  },
+  "633": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "DG"
+  },
+  "674": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "CA3"
+  },
+  "562": {
+    "ccf_level1": "HY",
+    "ccf_level2": "AHN-ASO"
+  },
+  "575": {
+    "ccf_level1": "HY",
+    "ccf_level2": "AHN-ASO"
+  },
+  "379": {
+    "ccf_level1": "TH",
+    "ccf_level2": "RE-Xi"
+  },
+  "1214": {
+    "ccf_level1": "HY",
+    "ccf_level2": "ZI"
+  },
+  "1225": {
+    "ccf_level1": "HY",
+    "ccf_level2": "ZI"
+  },
+  "345": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSs"
+  },
+  "398": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSs"
+  },
+  "293": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "CP"
+  },
+  "223": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "mfbs"
+  },
+  "1283": {
+    "ccf_level1": "TH",
+    "ccf_level2": "LD"
+  },
+  "1234": {
+    "ccf_level1": "TH",
+    "ccf_level2": "LD"
+  },
+  "524": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "DG"
+  },
+  "5": {
+    "ccf_level1": "VS",
+    "ccf_level2": "V3"
+  },
+  "647": {
+    "ccf_level1": "VS",
+    "ccf_level2": "V3"
+  },
+  "425": {
+    "ccf_level1": "VS",
+    "ccf_level2": "V3"
+  },
+  "140": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "DG"
+  },
+  "649": {
+    "ccf_level1": "VS",
+    "ccf_level2": "VL"
+  },
+  "99": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "mfbs"
+  },
+  "383": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "lfbs"
+  },
+  "1163": {
+    "ccf_level1": "TH",
+    "ccf_level2": "AM"
+  },
+  "824": {
+    "ccf_level1": "TH",
+    "ccf_level2": "MD"
+  },
+  "600": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "mfbs"
+  },
+  "787": {
+    "ccf_level1": "TH",
+    "ccf_level2": "RT"
+  },
+  "322": {
+    "ccf_level1": "TH",
+    "ccf_level2": "RT"
+  },
+  "834": {
+    "ccf_level1": "TH",
+    "ccf_level2": "AD"
+  },
+  "1204": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "cm"
+  },
+  "286": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "mfbs"
+  },
+  "915": {
+    "ccf_level1": "TH",
+    "ccf_level2": "MH"
+  },
+  "506": {
+    "ccf_level1": "TH",
+    "ccf_level2": "MH"
+  },
+  "261": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "VISC"
+  },
+  "595": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-bfd"
+  },
+  "835": {
+    "ccf_level1": "PAL",
+    "ccf_level2": "GPe"
+  },
+  "426": {
+    "ccf_level1": "TH",
+    "ccf_level2": "MD"
+  },
+  "876": {
+    "ccf_level1": "TH",
+    "ccf_level2": "PVT"
+  },
+  "979": {
+    "ccf_level1": "TH",
+    "ccf_level2": "LH"
+  },
+  "1005": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "AId"
+  },
+  "111": {
+    "ccf_level1": "CTXsp",
+    "ccf_level2": "AIp"
+  },
+  "203": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "995": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "lfbs"
+  },
+  "1086": {
+    "ccf_level1": "TH",
+    "ccf_level2": "PVT"
+  },
+  "955": {
+    "ccf_level1": "TH",
+    "ccf_level2": "CM"
+  },
+  "727": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "PIR"
+  },
+  "612": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "PIR"
+  },
+  "848": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "PIR"
+  },
+  "544": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "PIR"
+  },
+  "415": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "PIR"
+  },
+  "892": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "552": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "1185": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "RSPd"
+  },
+  "224": {
+    "ccf_level1": "CTXsp",
+    "ccf_level2": "EP"
+  },
+  "256": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "RSPd"
+  },
+  "603": {
+    "ccf_level1": "TH",
+    "ccf_level2": "RT"
+  },
+  "1241": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "CLA"
+  },
+  "965": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "1138": {
+    "ccf_level1": "PAL",
+    "ccf_level2": "SI"
+  },
+  "1271": {
+    "ccf_level1": "sAMY",
+    "ccf_level2": "CEA"
+  },
+  "97": {
+    "ccf_level1": "CTXsp",
+    "ccf_level2": "FS"
+  },
+  "1073": {
+    "ccf_level1": "CTXsp",
+    "ccf_level2": "BMA"
+  },
+  "1127": {
+    "ccf_level1": "HY",
+    "ccf_level2": "LHA"
+  },
+  "1122": {
+    "ccf_level1": "PAL",
+    "ccf_level2": "GPe"
+  },
+  "90": {
+    "ccf_level1": "sAMY",
+    "ccf_level2": "CEA"
+  },
+  "526": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "PIR"
+  },
+  "213": {
+    "ccf_level1": "sAMY",
+    "ccf_level2": "BA-MEA"
+  },
+  "1017": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "NLOT-COA-PAA-TR"
+  },
+  "245": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "NLOT-COA-PAA-TR"
+  },
+  "1085": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "PIR"
+  },
+  "888": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "cm"
+  },
+  "838": {
+    "ccf_level1": "HY",
+    "ccf_level2": "AHN-ASO"
+  },
+  "443": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "cm"
+  },
+  "643": {
+    "ccf_level1": "HY",
+    "ccf_level2": "SCH"
+  },
+  "485": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-ll"
+  },
+  "13": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "VISa"
+  },
+  "925": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOp"
+  },
+  "496": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOp"
+  },
+  "429": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOp"
+  },
+  "308": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "570": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "1088": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "1238": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-m"
+  },
+  "1144": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "PIR"
+  },
+  "351": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "AIv"
+  },
+  "784": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "PIR"
+  },
+  "986": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "PIR"
+  },
+  "804": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOp"
+  },
+  "149": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "lfbs"
+  },
+  "367": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "ACAv"
+  },
+  "652": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOs"
+  },
+  "1293": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOs"
+  },
+  "23": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-m"
+  },
+  "75": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "872": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "1270": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "AIp"
+  },
+  "676": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "AId"
+  },
+  "881": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-m"
+  },
+  "961": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOs"
+  },
+  "1165": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "ACAv"
+  },
+  "178": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "697": {
+    "ccf_level1": "LSX",
+    "ccf_level2": "LSc"
+  },
+  "964": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "ACAd"
+  },
+  "314": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "PL"
+  },
+  "193": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "1174": {
+    "ccf_level1": "STRv",
+    "ccf_level2": "FS"
+  },
+  "622": {
+    "ccf_level1": "LSX",
+    "ccf_level2": "LSr"
+  },
+  "372": {
+    "ccf_level1": "LSX",
+    "ccf_level2": "LSr"
+  },
+  "543": {
+    "ccf_level1": "PAL",
+    "ccf_level2": "BST-BAC"
+  },
+  "499": {
+    "ccf_level1": "sAMY",
+    "ccf_level2": "CEA"
+  },
+  "559": {
+    "ccf_level1": "LSX",
+    "ccf_level2": "LSv"
+  },
+  "753": {
+    "ccf_level1": "PAL",
+    "ccf_level2": "BST-BAC"
+  },
+  "1077": {
+    "ccf_level1": "LSX",
+    "ccf_level2": "LSr"
+  },
+  "604": {
+    "ccf_level1": "STRv",
+    "ccf_level2": "OT"
+  },
+  "546": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOp"
+  },
+  "770": {
+    "ccf_level1": "STRv",
+    "ccf_level2": "OT"
+  },
+  "165": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "ACAd"
+  },
+  "1009": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOs"
+  },
+  "91": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSs"
+  },
+  "540": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSs"
+  },
+  "1292": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-m"
+  },
+  "8": {
+    "ccf_level1": "PAL",
+    "ccf_level2": "BST-BAC"
+  },
+  "666": {
+    "ccf_level1": "HY",
+    "ccf_level2": "AVP-MPO-PD"
+  },
+  "94": {
+    "ccf_level1": "LSX",
+    "ccf_level2": "LSv"
+  },
+  "1188": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-m"
+  },
+  "471": {
+    "ccf_level1": "STRv",
+    "ccf_level2": "OT"
+  },
+  "120": {
+    "ccf_level1": "HY",
+    "ccf_level2": "PS"
+  },
+  "1148": {
+    "ccf_level1": "HY",
+    "ccf_level2": "AVPV"
+  },
+  "1007": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSs"
+  },
+  "410": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "32": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-m"
+  },
+  "568": {
+    "ccf_level1": "HY",
+    "ccf_level2": "ME"
+  },
+  "712": {
+    "ccf_level1": "STRv",
+    "ccf_level2": "OT"
+  },
+  "1074": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "GU"
+  },
+  "19": {
+    "ccf_level1": "STRv",
+    "ccf_level2": "OT"
+  },
+  "903": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSs"
+  },
+  "296": {
+    "ccf_level1": "STRv",
+    "ccf_level2": "OT"
+  },
+  "134": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "GU"
+  },
+  "1096": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-m"
+  },
+  "1179": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOp"
+  },
+  "1061": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOp"
+  },
+  "914": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOp"
+  },
+  "1109": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "GU"
+  },
+  "109": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-bfd"
+  },
+  "938": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "865": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "1016": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "861": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "cm"
+  },
+  "285": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "795": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "440": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "225": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "63": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOs"
+  },
+  "616": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "TT"
+  },
+  "1040": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "ORBvl"
+  },
+  "942": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOs"
+  },
+  "921": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOs"
+  },
+  "216": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "PL"
+  },
+  "284": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "ILA"
+  },
+  "755": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOs"
+  },
+  "605": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "ORBvl"
+  },
+  "1032": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "AON"
+  },
+  "1286": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "PIR"
+  },
+  "104": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOp"
+  },
+  "458": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOp"
+  },
+  "880": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "ORBl"
+  },
+  "113": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "PIR"
+  },
+  "698": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "PIR"
+  },
+  "1117": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "lfbs"
+  },
+  "387": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "AON"
+  },
+  "1242": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "ORBl"
+  },
+  "114": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "AON"
+  },
+  "1121": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "TT"
+  },
+  "1068": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOs"
+  },
+  "271": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "TT"
+  },
+  "431": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOs"
+  },
+  "283": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOs"
+  },
+  "1103": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "ORBm"
+  },
+  "1045": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "AId"
+  },
+  "74": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "AId"
+  },
+  "144": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOs"
+  },
+  "899": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "AON"
+  },
+  "621": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "PIR"
+  },
+  "41": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "370": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "404": {
+    "ccf_level1": "CB",
+    "ccf_level2": "V4"
+  },
+  "86": {
+    "ccf_level1": "CB",
+    "ccf_level2": "PFL"
+  },
+  "1199": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-tr"
+  },
+  "1004": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-bfd"
+  },
+  "553": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-bfd"
+  },
+  "200": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-bfd"
+  },
+  "1295": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSs"
+  },
+  "598": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-bfd"
+  },
+  "768": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOp"
+  },
+  "625": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-bfd"
+  },
+  "25": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "lfbs"
+  },
+  "783": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "CA1"
+  },
+  "1219": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSs"
+  },
+  "737": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "VISC"
+  },
+  "744": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSs"
+  },
+  "733": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "CA1"
+  },
+  "1027": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-bfd"
+  },
+  "713": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "CA3"
+  },
+  "391": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "CA3"
+  },
+  "196": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-m"
+  },
+  "1092": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "mfbs"
+  },
+  "420": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "611": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "535": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "VISC"
+  },
+  "325": {
+    "ccf_level1": "VS",
+    "ccf_level2": "VL"
+  },
+  "182": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "VL"
+  },
+  "1036": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "mfbs"
+  },
+  "954": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "lfbs"
+  },
+  "792": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "DG"
+  },
+  "895": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "lfbs"
+  },
+  "93": {
+    "ccf_level1": "TH",
+    "ccf_level2": "LD"
+  },
+  "70": {
+    "ccf_level1": "PAL",
+    "ccf_level2": "GPi"
+  },
+  "1022": {
+    "ccf_level1": "HY",
+    "ccf_level2": "LHA"
+  },
+  "150": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "lfbs"
+  },
+  "58": {
+    "ccf_level1": "TH",
+    "ccf_level2": "RT"
+  },
+  "966": {
+    "ccf_level1": "TH",
+    "ccf_level2": "VPL"
+  },
+  "252": {
+    "ccf_level1": "TH",
+    "ccf_level2": "VAL"
+  },
+  "1279": {
+    "ccf_level1": "TH",
+    "ccf_level2": "LP"
+  },
+  "341": {
+    "ccf_level1": "TH",
+    "ccf_level2": "MH"
+  },
+  "1186": {
+    "ccf_level1": "TH",
+    "ccf_level2": "RT"
+  },
+  "541": {
+    "ccf_level1": "PAL",
+    "ccf_level2": "GPe"
+  },
+  "810": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "lfbs"
+  },
+  "1243": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "AIp"
+  },
+  "952": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-m"
+  },
+  "235": {
+    "ccf_level1": "TH",
+    "ccf_level2": "MD"
+  },
+  "502": {
+    "ccf_level1": "TH",
+    "ccf_level2": "PO"
+  },
+  "84": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "PIR"
+  },
+  "579": {
+    "ccf_level1": "TH",
+    "ccf_level2": "VM"
+  },
+  "1278": {
+    "ccf_level1": "CTXsp",
+    "ccf_level2": "LA"
+  },
+  "692": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-bfd"
+  },
+  "868": {
+    "ccf_level1": "CTXsp",
+    "ccf_level2": "BLA"
+  },
+  "1049": {
+    "ccf_level1": "sAMY",
+    "ccf_level2": "CEA"
+  },
+  "739": {
+    "ccf_level1": "TH",
+    "ccf_level2": "RE-Xi"
+  },
+  "740": {
+    "ccf_level1": "TH",
+    "ccf_level2": "MG"
+  },
+  "380": {
+    "ccf_level1": "TH",
+    "ccf_level2": "LP"
+  },
+  "968": {
+    "ccf_level1": "CTXsp",
+    "ccf_level2": "IA"
+  },
+  "754": {
+    "ccf_level1": "sAMY",
+    "ccf_level2": "BA-MEA"
+  },
+  "115": {
+    "ccf_level1": "sAMY",
+    "ccf_level2": "BA-MEA"
+  },
+  "809": {
+    "ccf_level1": "HY",
+    "ccf_level2": "PH"
+  },
+  "1160": {
+    "ccf_level1": "HY",
+    "ccf_level2": "PVHd"
+  },
+  "78": {
+    "ccf_level1": "HY",
+    "ccf_level2": "VMH"
+  },
+  "309": {
+    "ccf_level1": "HY",
+    "ccf_level2": "AHN-ASO"
+  },
+  "547": {
+    "ccf_level1": "HY",
+    "ccf_level2": "LHA"
+  },
+  "319": {
+    "ccf_level1": "HY",
+    "ccf_level2": "TU"
+  },
+  "563": {
+    "ccf_level1": "sAMY",
+    "ccf_level2": "BA-MEA"
+  },
+  "81": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "cm"
+  },
+  "893": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "126": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "743": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "264": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "291": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "905": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "TT"
+  },
+  "510": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "EP"
+  },
+  "434": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "741": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "866": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "465": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "658": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "MOB"
+  },
+  "1255": {
+    "ccf_level1": "MY",
+    "ccf_level2": "GRN"
+  },
+  "726": {
+    "ccf_level1": "MY",
+    "ccf_level2": "GRN"
+  },
+  "655": {
+    "ccf_level1": "CB",
+    "ccf_level2": "AN"
+  },
+  "414": {
+    "ccf_level1": "CB",
+    "ccf_level2": "AN"
+  },
+  "763": {
+    "ccf_level1": "CB",
+    "ccf_level2": "AN"
+  },
+  "112": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "cbf"
+  },
+  "141": {
+    "ccf_level1": "CB",
+    "ccf_level2": "FN-VeCB"
+  },
+  "433": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "cbf"
+  },
+  "1253": {
+    "ccf_level1": "CB",
+    "ccf_level2": "IP"
+  },
+  "418": {
+    "ccf_level1": "CB",
+    "ccf_level2": "UVU"
+  },
+  "1196": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "cbf"
+  },
+  "1252": {
+    "ccf_level1": "CB",
+    "ccf_level2": "DEC"
+  },
+  "929": {
+    "ccf_level1": "CB",
+    "ccf_level2": "SIM"
+  },
+  "1164": {
+    "ccf_level1": "CB",
+    "ccf_level2": "CUL"
+  },
+  "642": {
+    "ccf_level1": "CB",
+    "ccf_level2": "AN"
+  },
+  "89": {
+    "ccf_level1": "CB",
+    "ccf_level2": "DEC"
+  },
+  "1191": {
+    "ccf_level1": "CB",
+    "ccf_level2": "AN"
+  },
+  "416": {
+    "ccf_level1": "CB",
+    "ccf_level2": "cbf"
+  },
+  "817": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "cbf"
+  },
+  "958": {
+    "ccf_level1": "MY",
+    "ccf_level2": "IO"
+  },
+  "1201": {
+    "ccf_level1": "MY",
+    "ccf_level2": "lfbs"
+  },
+  "258": {
+    "ccf_level1": "MY",
+    "ccf_level2": "MY"
+  },
+  "71": {
+    "ccf_level1": "MY",
+    "ccf_level2": "MARN"
+  },
+  "1098": {
+    "ccf_level1": "MY",
+    "ccf_level2": "IRN-ACVII-AMB-LIN"
+  },
+  "453": {
+    "ccf_level1": "MY",
+    "ccf_level2": "NTS"
+  },
+  "738": {
+    "ccf_level1": "MY",
+    "ccf_level2": "MV"
+  },
+  "673": {
+    "ccf_level1": "MY",
+    "ccf_level2": "MV"
+  },
+  "265": {
+    "ccf_level1": "MY",
+    "ccf_level2": "PHY"
+  },
+  "1116": {
+    "ccf_level1": "MY",
+    "ccf_level2": "MV"
+  },
+  "842": {
+    "ccf_level1": "MY",
+    "ccf_level2": "V4"
+  },
+  "48": {
+    "ccf_level1": "CB",
+    "ccf_level2": "SIM"
+  },
+  "305": {
+    "ccf_level1": "CB",
+    "ccf_level2": "AN"
+  },
+  "825": {
+    "ccf_level1": "CB",
+    "ccf_level2": "CUL"
+  },
+  "251": {
+    "ccf_level1": "CB",
+    "ccf_level2": "AN"
+  },
+  "18": {
+    "ccf_level1": "MY",
+    "ccf_level2": "PARN"
+  },
+  "208": {
+    "ccf_level1": "CB",
+    "ccf_level2": "AN"
+  },
+  "656": {
+    "ccf_level1": "CB",
+    "ccf_level2": "CUL"
+  },
+  "166": {
+    "ccf_level1": "CB",
+    "ccf_level2": "CENT"
+  },
+  "1058": {
+    "ccf_level1": "CB",
+    "ccf_level2": "CENT"
+  },
+  "539": {
+    "ccf_level1": "CB",
+    "ccf_level2": "CENT"
+  },
+  "814": {
+    "ccf_level1": "CB",
+    "ccf_level2": "CENT"
+  },
+  "610": {
+    "ccf_level1": "MY",
+    "ccf_level2": "SPIV"
+  },
+  "382": {
+    "ccf_level1": "CB",
+    "ccf_level2": "NOD"
+  },
+  "412": {
+    "ccf_level1": "CB",
+    "ccf_level2": "NOD"
+  },
+  "912": {
+    "ccf_level1": "MY",
+    "ccf_level2": "MY"
+  },
+  "886": {
+    "ccf_level1": "MY",
+    "ccf_level2": "NTS"
+  },
+  "17": {
+    "ccf_level1": "MY",
+    "ccf_level2": "PGRNl"
+  },
+  "1189": {
+    "ccf_level1": "CB",
+    "ccf_level2": "NOD"
+  },
+  "171": {
+    "ccf_level1": "MY",
+    "ccf_level2": "PGRNd"
+  },
+  "437": {
+    "ccf_level1": "CB",
+    "ccf_level2": "NOD"
+  },
+  "365": {
+    "ccf_level1": "CB",
+    "ccf_level2": "AN"
+  },
+  "1168": {
+    "ccf_level1": "CB",
+    "ccf_level2": "PRM"
+  },
+  "1210": {
+    "ccf_level1": "CB",
+    "ccf_level2": "AN"
+  },
+  "30": {
+    "ccf_level1": "CB",
+    "ccf_level2": "AN"
+  },
+  "638": {
+    "ccf_level1": "CB",
+    "ccf_level2": "AN"
+  },
+  "1099": {
+    "ccf_level1": "CB",
+    "ccf_level2": "DEC"
+  },
+  "601": {
+    "ccf_level1": "CB",
+    "ccf_level2": "cbf"
+  },
+  "1220": {
+    "ccf_level1": "CB",
+    "ccf_level2": "CENT"
+  },
+  "388": {
+    "ccf_level1": "VS",
+    "ccf_level2": "VL"
+  },
+  "1134": {
+    "ccf_level1": "VS",
+    "ccf_level2": "VL"
+  },
+  "468": {
+    "ccf_level1": "MY",
+    "ccf_level2": "GRN"
+  },
+  "772": {
+    "ccf_level1": "CB",
+    "ccf_level2": "NOD"
+  },
+  "199": {
+    "ccf_level1": "VS",
+    "ccf_level2": "VL"
+  },
+  "745": {
+    "ccf_level1": "VS",
+    "ccf_level2": "VL"
+  },
+  "76": {
+    "ccf_level1": "CB",
+    "ccf_level2": "NOD"
+  },
+  "362": {
+    "ccf_level1": "CB",
+    "ccf_level2": "CUL"
+  },
+  "918": {
+    "ccf_level1": "CB",
+    "ccf_level2": "NOD"
+  },
+  "1248": {
+    "ccf_level1": "CB",
+    "ccf_level2": "AN"
+  },
+  "53": {
+    "ccf_level1": "CB",
+    "ccf_level2": "CUL"
+  },
+  "537": {
+    "ccf_level1": "CB",
+    "ccf_level2": "DEC"
+  },
+  "746": {
+    "ccf_level1": "CB",
+    "ccf_level2": "CUL"
+  },
+  "927": {
+    "ccf_level1": "CB",
+    "ccf_level2": "CUL"
+  },
+  "681": {
+    "ccf_level1": "CB",
+    "ccf_level2": "AN"
+  },
+  "879": {
+    "ccf_level1": "CB",
+    "ccf_level2": "PRM"
+  },
+  "324": {
+    "ccf_level1": "CB",
+    "ccf_level2": "cbf"
+  },
+  "501": {
+    "ccf_level1": "CB",
+    "ccf_level2": "AN"
+  },
+  "1297": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "cm"
+  },
+  "531": {
+    "ccf_level1": "MY",
+    "ccf_level2": "SPVI"
+  },
+  "971": {
+    "ccf_level1": "MY",
+    "ccf_level2": "MY"
+  },
+  "1280": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "lfbs"
+  },
+  "450": {
+    "ccf_level1": "MY",
+    "ccf_level2": "MY"
+  },
+  "227": {
+    "ccf_level1": "CB",
+    "ccf_level2": "CENT"
+  },
+  "1249": {
+    "ccf_level1": "MY",
+    "ccf_level2": "MY"
+  },
+  "613": {
+    "ccf_level1": "MY",
+    "ccf_level2": "LRN"
+  },
+  "845": {
+    "ccf_level1": "CB",
+    "ccf_level2": "FL"
+  },
+  "1010": {
+    "ccf_level1": "VS",
+    "ccf_level2": "VL"
+  },
+  "1020": {
+    "ccf_level1": "CB",
+    "ccf_level2": "cbf"
+  },
+  "237": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "cm"
+  },
+  "860": {
+    "ccf_level1": "CB",
+    "ccf_level2": "PFL"
+  },
+  "455": {
+    "ccf_level1": "CB",
+    "ccf_level2": "COPY"
+  },
+  "334": {
+    "ccf_level1": "CB",
+    "ccf_level2": "AN"
+  },
+  "1090": {
+    "ccf_level1": "CB",
+    "ccf_level2": "AN"
+  },
+  "9": {
+    "ccf_level1": "CB",
+    "ccf_level2": "PFL"
+  },
+  "206": {
+    "ccf_level1": "CB",
+    "ccf_level2": "PFL"
+  },
+  "1126": {
+    "ccf_level1": "CB",
+    "ccf_level2": "PFL"
+  },
+  "145": {
+    "ccf_level1": "CB",
+    "ccf_level2": "PFL"
+  },
+  "937": {
+    "ccf_level1": "CB",
+    "ccf_level2": "PFL"
+  },
+  "442": {
+    "ccf_level1": "CB",
+    "ccf_level2": "PFL"
+  },
+  "839": {
+    "ccf_level1": "CB",
+    "ccf_level2": "PFL"
+  },
+  "1200": {
+    "ccf_level1": "CB",
+    "ccf_level2": "PRM"
+  },
+  "1064": {
+    "ccf_level1": "CB",
+    "ccf_level2": "PFL"
+  },
+  "269": {
+    "ccf_level1": "MY",
+    "ccf_level2": "SPVI"
+  },
+  "525": {
+    "ccf_level1": "CB",
+    "ccf_level2": "PFL"
+  },
+  "474": {
+    "ccf_level1": "CB",
+    "ccf_level2": "PFL"
+  },
+  "1102": {
+    "ccf_level1": "CB",
+    "ccf_level2": "PFL"
+  },
+  "978": {
+    "ccf_level1": "CB",
+    "ccf_level2": "cbf"
+  },
+  "138": {
+    "ccf_level1": "CB",
+    "ccf_level2": "AN"
+  },
+  "696": {
+    "ccf_level1": "MY",
+    "ccf_level2": "SPVO"
+  },
+  "1151": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "931": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "107": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-bfd"
+  },
+  "338": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSs"
+  },
+  "870": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-bfd"
+  },
+  "51": {
+    "ccf_level1": "sAMY",
+    "ccf_level2": "AAA"
+  },
+  "999": {
+    "ccf_level1": "HY",
+    "ccf_level2": "LPO"
+  },
+  "483": {
+    "ccf_level1": "HY",
+    "ccf_level2": "AHN-ASO"
+  },
+  "329": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "232": {
+    "ccf_level1": "PAL",
+    "ccf_level2": "SI"
+  },
+  "491": {
+    "ccf_level1": "PAL",
+    "ccf_level2": "GPe"
+  },
+  "88": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "1268": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "lfbs"
+  },
+  "1071": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-bfd"
+  },
+  "1264": {
+    "ccf_level1": "TH",
+    "ccf_level2": "RT"
+  },
+  "844": {
+    "ccf_level1": "HY",
+    "ccf_level2": "MPN"
+  },
+  "906": {
+    "ccf_level1": "sAMY",
+    "ccf_level2": "BA-MEA"
+  },
+  "1277": {
+    "ccf_level1": "TH",
+    "ccf_level2": "mfbs"
+  },
+  "1274": {
+    "ccf_level1": "TH",
+    "ccf_level2": "PT"
+  },
+  "209": {
+    "ccf_level1": "HY",
+    "ccf_level2": "PVi"
+  },
+  "125": {
+    "ccf_level1": "LSX",
+    "ccf_level2": "LSr"
+  },
+  "909": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "RSPd"
+  },
+  "678": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "PIR"
+  },
+  "231": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSs"
+  },
+  "588": {
+    "ccf_level1": "STRv",
+    "ccf_level2": "OT"
+  },
+  "438": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSs"
+  },
+  "1087": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "VISrl"
+  },
+  "421": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "846": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "NLOT-COA-PAA-TR"
+  },
+  "244": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "511": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "ILA"
+  },
+  "916": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "DP"
+  },
+  "161": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "CP"
+  },
+  "335": {
+    "ccf_level1": "STRv",
+    "ccf_level2": "ACB"
+  },
+  "581": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "43": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "851": {
+    "ccf_level1": "STRv",
+    "ccf_level2": "ACB"
+  },
+  "863": {
+    "ccf_level1": "LSX",
+    "ccf_level2": "LSr"
+  },
+  "1176": {
+    "ccf_level1": "LSX",
+    "ccf_level2": "LSr"
+  },
+  "1217": {
+    "ccf_level1": "Unknown",
+    "ccf_level2": "Unknown"
+  },
+  "855": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOp"
+  },
+  "992": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOp"
+  },
+  "274": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOp"
+  },
+  "1095": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOp"
+  },
+  "1209": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOp"
+  },
+  "1207": {
+    "ccf_level1": "STRv",
+    "ccf_level2": "OT"
+  },
+  "192": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "PIR"
+  },
+  "877": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "PL"
+  },
+  "718": {
+    "ccf_level1": "STRv",
+    "ccf_level2": "OT"
+  },
+  "1266": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "DP"
+  },
+  "1101": {
+    "ccf_level1": "STRv",
+    "ccf_level2": "OT"
+  },
+  "941": {
+    "ccf_level1": "STRv",
+    "ccf_level2": "OT"
+  },
+  "1128": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "1112": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "PIR"
+  },
+  "694": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOp"
+  },
+  "527": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "AId"
+  },
+  "606": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "ACAv"
+  },
+  "764": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "ACAv"
+  },
+  "731": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "ACAd"
+  },
+  "497": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOs"
+  },
+  "794": {
+    "ccf_level1": "CTXsp",
+    "ccf_level2": "CLA"
+  },
+  "73": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "RSPagl"
+  },
+  "445": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "AId"
+  },
+  "181": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-m"
+  },
+  "1182": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "lfbs"
+  },
+  "757": {
+    "ccf_level1": "MY",
+    "ccf_level2": "NTS"
+  },
+  "1166": {
+    "ccf_level1": "MY",
+    "ccf_level2": "XII"
+  },
+  "61": {
+    "ccf_level1": "MY",
+    "ccf_level2": "MDRN"
+  },
+  "390": {
+    "ccf_level1": "CB",
+    "ccf_level2": "PRM"
+  },
+  "240": {
+    "ccf_level1": "CB",
+    "ccf_level2": "UVU"
+  },
+  "29": {
+    "ccf_level1": "CB",
+    "ccf_level2": "UVU"
+  },
+  "773": {
+    "ccf_level1": "CB",
+    "ccf_level2": "UVU"
+  },
+  "725": {
+    "ccf_level1": "CB",
+    "ccf_level2": "UVU"
+  },
+  "122": {
+    "ccf_level1": "MY",
+    "ccf_level2": "AP-DCN-ECU"
+  },
+  "123": {
+    "ccf_level1": "MY",
+    "ccf_level2": "SPVC"
+  },
+  "873": {
+    "ccf_level1": "MY",
+    "ccf_level2": "AP-DCN-ECU"
+  },
+  "1154": {
+    "ccf_level1": "MY",
+    "ccf_level2": "SPVC"
+  },
+  "328": {
+    "ccf_level1": "MY",
+    "ccf_level2": "SPVC"
+  },
+  "411": {
+    "ccf_level1": "MY",
+    "ccf_level2": "MDRN"
+  },
+  "257": {
+    "ccf_level1": "CB",
+    "ccf_level2": "FOTU"
+  },
+  "1145": {
+    "ccf_level1": "MY",
+    "ccf_level2": "MDRN"
+  },
+  "602": {
+    "ccf_level1": "MY",
+    "ccf_level2": "NTS"
+  },
+  "1246": {
+    "ccf_level1": "CB",
+    "ccf_level2": "AN"
+  },
+  "970": {
+    "ccf_level1": "CB",
+    "ccf_level2": "FOTU"
+  },
+  "1069": {
+    "ccf_level1": "CB",
+    "ccf_level2": "PRM"
+  },
+  "590": {
+    "ccf_level1": "MY",
+    "ccf_level2": "IO"
+  },
+  "1299": {
+    "ccf_level1": "CB",
+    "ccf_level2": "COPY"
+  },
+  "891": {
+    "ccf_level1": "CB",
+    "ccf_level2": "PRM"
+  },
+  "60": {
+    "ccf_level1": "CB",
+    "ccf_level2": "PRM"
+  },
+  "663": {
+    "ccf_level1": "CB",
+    "ccf_level2": "PRM"
+  },
+  "609": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "cbf"
+  },
+  "312": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-m"
+  },
+  "219": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-m"
+  },
+  "1195": {
+    "ccf_level1": "STRv",
+    "ccf_level2": "SI"
+  },
+  "1222": {
+    "ccf_level1": "STRv",
+    "ccf_level2": "ACB"
+  },
+  "775": {
+    "ccf_level1": "STRv",
+    "ccf_level2": "OT"
+  },
+  "977": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "480": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-m"
+  },
+  "378": {
+    "ccf_level1": "CTXsp",
+    "ccf_level2": "EP"
+  },
+  "1047": {
+    "ccf_level1": "STRv",
+    "ccf_level2": "ACB"
+  },
+  "368": {
+    "ccf_level1": "PAL",
+    "ccf_level2": "MSC"
+  },
+  "1052": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOp"
+  },
+  "142": {
+    "ccf_level1": "STRv",
+    "ccf_level2": "OT"
+  },
+  "100": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOp"
+  },
+  "221": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOp"
+  },
+  "101": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOp"
+  },
+  "1021": {
+    "ccf_level1": "HY",
+    "ccf_level2": "AVP-MPO-PD"
+  },
+  "1111": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOp"
+  },
+  "640": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOp"
+  },
+  "1076": {
+    "ccf_level1": "HY",
+    "ccf_level2": "MPN"
+  },
+  "654": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "GU"
+  },
+  "173": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOp"
+  },
+  "350": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOs"
+  },
+  "307": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "ACAd"
+  },
+  "631": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOp"
+  },
+  "514": {
+    "ccf_level1": "LSX",
+    "ccf_level2": "LSr"
+  },
+  "911": {
+    "ccf_level1": "HY",
+    "ccf_level2": "PVpo-VMPO"
+  },
+  "487": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "ACAv"
+  },
+  "190": {
+    "ccf_level1": "PAL",
+    "ccf_level2": "TRS"
+  },
+  "456": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOs"
+  },
+  "169": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOs"
+  },
+  "1118": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-m"
+  },
+  "417": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSs"
+  },
+  "614": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "CLA"
+  },
+  "554": {
+    "ccf_level1": "CTXsp",
+    "ccf_level2": "EP"
+  },
+  "359": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "PIR"
+  },
+  "923": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-m"
+  },
+  "1081": {
+    "ccf_level1": "MY",
+    "ccf_level2": "LAV"
+  },
+  "364": {
+    "ccf_level1": "MY",
+    "ccf_level2": "MV"
+  },
+  "980": {
+    "ccf_level1": "MY",
+    "ccf_level2": "SUV"
+  },
+  "59": {
+    "ccf_level1": "MY",
+    "ccf_level2": "PARN"
+  },
+  "119": {
+    "ccf_level1": "MY",
+    "ccf_level2": "IRN-ACVII-AMB-LIN"
+  },
+  "236": {
+    "ccf_level1": "CB",
+    "ccf_level2": "AN"
+  },
+  "953": {
+    "ccf_level1": "MY",
+    "ccf_level2": "IRN-ACVII-AMB-LIN"
+  },
+  "771": {
+    "ccf_level1": "P",
+    "ccf_level2": "IRN-ACVII-AMB-LIN"
+  },
+  "1038": {
+    "ccf_level1": "MY",
+    "ccf_level2": "VII"
+  },
+  "722": {
+    "ccf_level1": "CB",
+    "ccf_level2": "IP"
+  },
+  "1015": {
+    "ccf_level1": "MY",
+    "ccf_level2": "PRNc"
+  },
+  "1254": {
+    "ccf_level1": "MY",
+    "ccf_level2": "SPVO"
+  },
+  "717": {
+    "ccf_level1": "MY",
+    "ccf_level2": "SUV"
+  },
+  "37": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "cbf"
+  },
+  "1125": {
+    "ccf_level1": "MY",
+    "ccf_level2": "CN"
+  },
+  "249": {
+    "ccf_level1": "MY",
+    "ccf_level2": "CN"
+  },
+  "709": {
+    "ccf_level1": "MY",
+    "ccf_level2": "cbf"
+  },
+  "1023": {
+    "ccf_level1": "P",
+    "ccf_level2": "PRNc"
+  },
+  "1001": {
+    "ccf_level1": "CB",
+    "ccf_level2": "CUL"
+  },
+  "843": {
+    "ccf_level1": "MY",
+    "ccf_level2": "CN"
+  },
+  "623": {
+    "ccf_level1": "MY",
+    "ccf_level2": "CN"
+  },
+  "1289": {
+    "ccf_level1": "MY",
+    "ccf_level2": "CN"
+  },
+  "1143": {
+    "ccf_level1": "CB",
+    "ccf_level2": "cbf"
+  },
+  "867": {
+    "ccf_level1": "CB",
+    "ccf_level2": "AN"
+  },
+  "889": {
+    "ccf_level1": "CB",
+    "ccf_level2": "SIM"
+  },
+  "528": {
+    "ccf_level1": "CB",
+    "ccf_level2": "SIM"
+  },
+  "1089": {
+    "ccf_level1": "CB",
+    "ccf_level2": "SIM"
+  },
+  "72": {
+    "ccf_level1": "CB",
+    "ccf_level2": "SIM"
+  },
+  "669": {
+    "ccf_level1": "CB",
+    "ccf_level2": "CUL"
+  },
+  "878": {
+    "ccf_level1": "CB",
+    "ccf_level2": "IP"
+  },
+  "859": {
+    "ccf_level1": "CB",
+    "ccf_level2": "PFL"
+  },
+  "576": {
+    "ccf_level1": "CB",
+    "ccf_level2": "PFL"
+  },
+  "1082": {
+    "ccf_level1": "CB",
+    "ccf_level2": "CUL"
+  },
+  "143": {
+    "ccf_level1": "CB",
+    "ccf_level2": "SIM"
+  },
+  "389": {
+    "ccf_level1": "CB",
+    "ccf_level2": "PRM"
+  },
+  "987": {
+    "ccf_level1": "CB",
+    "ccf_level2": "PYR"
+  },
+  "723": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "AId"
+  },
+  "779": {
+    "ccf_level1": "CB",
+    "ccf_level2": "FOTU"
+  },
+  "1131": {
+    "ccf_level1": "CB",
+    "ccf_level2": "UVU"
+  },
+  "840": {
+    "ccf_level1": "CB",
+    "ccf_level2": "AN"
+  },
+  "371": {
+    "ccf_level1": "CB",
+    "ccf_level2": "UVU"
+  },
+  "479": {
+    "ccf_level1": "MY",
+    "ccf_level2": "NTS"
+  },
+  "1018": {
+    "ccf_level1": "CB",
+    "ccf_level2": "UVU"
+  },
+  "273": {
+    "ccf_level1": "CB",
+    "ccf_level2": "COPY"
+  },
+  "1042": {
+    "ccf_level1": "MY",
+    "ccf_level2": "SPVC"
+  },
+  "1124": {
+    "ccf_level1": "VS",
+    "ccf_level2": "V4"
+  },
+  "132": {
+    "ccf_level1": "CB",
+    "ccf_level2": "PRM"
+  },
+  "289": {
+    "ccf_level1": "CB",
+    "ccf_level2": "PYR"
+  },
+  "1171": {
+    "ccf_level1": "MY",
+    "ccf_level2": "SPVI"
+  },
+  "363": {
+    "ccf_level1": "CB",
+    "ccf_level2": "FOTU"
+  },
+  "1231": {
+    "ccf_level1": "CB",
+    "ccf_level2": "PRM"
+  },
+  "62": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "CA1"
+  },
+  "302": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "CA1"
+  },
+  "1155": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "CA1"
+  },
+  "357": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "RSPd"
+  },
+  "957": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "DG"
+  },
+  "49": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "NLOT-COA-PAA-TR"
+  },
+  "963": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "DG"
+  },
+  "799": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "CA1"
+  },
+  "651": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "VISpor"
+  },
+  "930": {
+    "ccf_level1": "MB",
+    "ccf_level2": "SCm"
+  },
+  "586": {
+    "ccf_level1": "TH",
+    "ccf_level2": "PIL"
+  },
+  "1136": {
+    "ccf_level1": "MB",
+    "ccf_level2": "PAG-MEV-SCO"
+  },
+  "170": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "RSPv"
+  },
+  "759": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "CA3"
+  },
+  "1031": {
+    "ccf_level1": "MB",
+    "ccf_level2": "SCm"
+  },
+  "822": {
+    "ccf_level1": "CTXsp",
+    "ccf_level2": "EP"
+  },
+  "981": {
+    "ccf_level1": "MB",
+    "ccf_level2": "MRN"
+  },
+  "121": {
+    "ccf_level1": "MB",
+    "ccf_level2": "MRN"
+  },
+  "790": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "VISp"
+  },
+  "337": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "CA3"
+  },
+  "1211": {
+    "ccf_level1": "CTXsp",
+    "ccf_level2": "NLOT-COA-PAA-TR"
+  },
+  "1084": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "NLOT-COA-PAA-TR"
+  },
+  "1263": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "VISp"
+  },
+  "247": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "CA1"
+  },
+  "665": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "NLOT-COA-PAA-TR"
+  },
+  "505": {
+    "ccf_level1": "MB",
+    "ccf_level2": "NPC"
+  },
+  "730": {
+    "ccf_level1": "CTXsp",
+    "ccf_level2": "PA"
+  },
+  "377": {
+    "ccf_level1": "MB",
+    "ccf_level2": "RN"
+  },
+  "1194": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "NLOT-COA-PAA-TR"
+  },
+  "664": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "HATA"
+  },
+  "447": {
+    "ccf_level1": "MB",
+    "ccf_level2": "MRN"
+  },
+  "294": {
+    "ccf_level1": "MB",
+    "ccf_level2": "VTA"
+  },
+  "1169": {
+    "ccf_level1": "MB",
+    "ccf_level2": "APN"
+  },
+  "802": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "CA1"
+  },
+  "381": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "CA1"
+  },
+  "327": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "NLOT-COA-PAA-TR"
+  },
+  "776": {
+    "ccf_level1": "P",
+    "ccf_level2": "PRNc"
+  },
+  "457": {
+    "ccf_level1": "P",
+    "ccf_level2": "SOC"
+  },
+  "1208": {
+    "ccf_level1": "MY",
+    "ccf_level2": "VII"
+  },
+  "661": {
+    "ccf_level1": "P",
+    "ccf_level2": "PB"
+  },
+  "279": {
+    "ccf_level1": "P",
+    "ccf_level2": "PB"
+  },
+  "356": {
+    "ccf_level1": "CB",
+    "ccf_level2": "SIM"
+  },
+  "1180": {
+    "ccf_level1": "P",
+    "ccf_level2": "PSV"
+  },
+  "137": {
+    "ccf_level1": "P",
+    "ccf_level2": "V"
+  },
+  "913": {
+    "ccf_level1": "P",
+    "ccf_level2": "PRNc"
+  },
+  "310": {
+    "ccf_level1": "CB",
+    "ccf_level2": "CENT"
+  },
+  "14": {
+    "ccf_level1": "MB",
+    "ccf_level2": "MRN"
+  },
+  "996": {
+    "ccf_level1": "MB",
+    "ccf_level2": "IC"
+  },
+  "22": {
+    "ccf_level1": "MB",
+    "ccf_level2": "CUN"
+  },
+  "366": {
+    "ccf_level1": "MB",
+    "ccf_level2": "IC"
+  },
+  "184": {
+    "ccf_level1": "P",
+    "ccf_level2": "PSV"
+  },
+  "572": {
+    "ccf_level1": "MY",
+    "ccf_level2": "NTB"
+  },
+  "898": {
+    "ccf_level1": "MB",
+    "ccf_level2": "PAG-MEV-SCO"
+  },
+  "1237": {
+    "ccf_level1": "P",
+    "ccf_level2": "PRNc"
+  },
+  "1014": {
+    "ccf_level1": "P",
+    "ccf_level2": "NI"
+  },
+  "481": {
+    "ccf_level1": "P",
+    "ccf_level2": "LDT"
+  },
+  "1062": {
+    "ccf_level1": "P",
+    "ccf_level2": "DTN"
+  },
+  "103": {
+    "ccf_level1": "MY",
+    "ccf_level2": "CN"
+  },
+  "629": {
+    "ccf_level1": "P",
+    "ccf_level2": "SOC"
+  },
+  "1035": {
+    "ccf_level1": "MY",
+    "ccf_level2": "PARN"
+  },
+  "816": {
+    "ccf_level1": "P",
+    "ccf_level2": "PB"
+  },
+  "129": {
+    "ccf_level1": "P",
+    "ccf_level2": "PB"
+  },
+  "1057": {
+    "ccf_level1": "MB",
+    "ccf_level2": "RAmb"
+  },
+  "1105": {
+    "ccf_level1": "MB",
+    "ccf_level2": "IC"
+  },
+  "1072": {
+    "ccf_level1": "CB",
+    "ccf_level2": "FL"
+  },
+  "318": {
+    "ccf_level1": "MB",
+    "ccf_level2": "IC"
+  },
+  "820": {
+    "ccf_level1": "MB",
+    "ccf_level2": "IC"
+  },
+  "10": {
+    "ccf_level1": "CB",
+    "ccf_level2": "FL"
+  },
+  "369": {
+    "ccf_level1": "CB",
+    "ccf_level2": "cbf"
+  },
+  "430": {
+    "ccf_level1": "CB",
+    "ccf_level2": "FL"
+  },
+  "177": {
+    "ccf_level1": "VS",
+    "ccf_level2": "AQ"
+  },
+  "454": {
+    "ccf_level1": "MB",
+    "ccf_level2": "PAG-MEV-SCO"
+  },
+  "128": {
+    "ccf_level1": "MB",
+    "ccf_level2": "IC"
+  },
+  "154": {
+    "ccf_level1": "MB",
+    "ccf_level2": "IC"
+  },
+  "1167": {
+    "ccf_level1": "CB",
+    "ccf_level2": "SIM"
+  },
+  "793": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "ENT"
+  },
+  "500": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "PAR"
+  },
+  "110": {
+    "ccf_level1": "P",
+    "ccf_level2": "NLL"
+  },
+  "660": {
+    "ccf_level1": "P",
+    "ccf_level2": "PRNr"
+  },
+  "1065": {
+    "ccf_level1": "P",
+    "ccf_level2": "CS"
+  },
+  "24": {
+    "ccf_level1": "MB",
+    "ccf_level2": "MRN"
+  },
+  "507": {
+    "ccf_level1": "MB",
+    "ccf_level2": "PPN"
+  },
+  "1051": {
+    "ccf_level1": "P",
+    "ccf_level2": "NLL"
+  },
+  "1150": {
+    "ccf_level1": "MB",
+    "ccf_level2": "PPN"
+  },
+  "928": {
+    "ccf_level1": "MB",
+    "ccf_level2": "PPN"
+  },
+  "555": {
+    "ccf_level1": "P",
+    "ccf_level2": "NLL"
+  },
+  "358": {
+    "ccf_level1": "MB",
+    "ccf_level2": "CUN"
+  },
+  "297": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "PAR"
+  },
+  "52": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "ENT"
+  },
+  "1114": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "ENT"
+  },
+  "1232": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "ENT"
+  },
+  "1050": {
+    "ccf_level1": "MB",
+    "ccf_level2": "SAG-PBG"
+  },
+  "46": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "POST"
+  },
+  "989": {
+    "ccf_level1": "P",
+    "ccf_level2": "TRN"
+  },
+  "919": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "ENT"
+  },
+  "342": {
+    "ccf_level1": "MB",
+    "ccf_level2": "MRN"
+  },
+  "800": {
+    "ccf_level1": "MB",
+    "ccf_level2": "IC"
+  },
+  "352": {
+    "ccf_level1": "MB",
+    "ccf_level2": "MRN"
+  },
+  "194": {
+    "ccf_level1": "MB",
+    "ccf_level2": "IC"
+  },
+  "1091": {
+    "ccf_level1": "MB",
+    "ccf_level2": "SCm"
+  },
+  "530": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "ENT"
+  },
+  "360": {
+    "ccf_level1": "P",
+    "ccf_level2": "PRNr"
+  },
+  "556": {
+    "ccf_level1": "P",
+    "ccf_level2": "TRN"
+  },
+  "857": {
+    "ccf_level1": "TH",
+    "ccf_level2": "RT"
+  },
+  "117": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "CA3"
+  },
+  "635": {
+    "ccf_level1": "HY",
+    "ccf_level2": "LHA"
+  },
+  "1037": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "lfbs"
+  },
+  "288": {
+    "ccf_level1": "HY",
+    "ccf_level2": "PST-PSTN-STN"
+  },
+  "1083": {
+    "ccf_level1": "HY",
+    "ccf_level2": "LHA"
+  },
+  "484": {
+    "ccf_level1": "HY",
+    "ccf_level2": "ZI"
+  },
+  "452": {
+    "ccf_level1": "HY",
+    "ccf_level2": "VMH"
+  },
+  "1006": {
+    "ccf_level1": "HY",
+    "ccf_level2": "DMH"
+  },
+  "626": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "520": {
+    "ccf_level1": "HY",
+    "ccf_level2": "ZI"
+  },
+  "628": {
+    "ccf_level1": "TH",
+    "ccf_level2": "VPM"
+  },
+  "1228": {
+    "ccf_level1": "TH",
+    "ccf_level2": "VPM"
+  },
+  "1139": {
+    "ccf_level1": "TH",
+    "ccf_level2": "GENv"
+  },
+  "238": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "332": {
+    "ccf_level1": "HY",
+    "ccf_level2": "ARH"
+  },
+  "801": {
+    "ccf_level1": "HY",
+    "ccf_level2": "TM"
+  },
+  "96": {
+    "ccf_level1": "TH",
+    "ccf_level2": "VPM"
+  },
+  "266": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "CA1"
+  },
+  "186": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "CA1"
+  },
+  "761": {
+    "ccf_level1": "TH",
+    "ccf_level2": "LGd"
+  },
+  "619": {
+    "ccf_level1": "TH",
+    "ccf_level2": "LGd"
+  },
+  "569": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "AUDp"
+  },
+  "131": {
+    "ccf_level1": "TH",
+    "ccf_level2": "VM"
+  },
+  "64": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "CA1"
+  },
+  "677": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "CA3"
+  },
+  "26": {
+    "ccf_level1": "TH",
+    "ccf_level2": "PO"
+  },
+  "490": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "DG"
+  },
+  "42": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "DG"
+  },
+  "706": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "DG"
+  },
+  "1216": {
+    "ccf_level1": "TH",
+    "ccf_level2": "LH"
+  },
+  "172": {
+    "ccf_level1": "CTXsp",
+    "ccf_level2": "BLA"
+  },
+  "326": {
+    "ccf_level1": "CTXsp",
+    "ccf_level2": "BLA"
+  },
+  "255": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "NLOT-COA-PAA-TR"
+  },
+  "180": {
+    "ccf_level1": "CTXsp",
+    "ccf_level2": "LA"
+  },
+  "962": {
+    "ccf_level1": "CTXsp",
+    "ccf_level2": "BLA"
+  },
+  "910": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "NLOT-COA-PAA-TR"
+  },
+  "705": {
+    "ccf_level1": "CTXsp",
+    "ccf_level2": "BMA"
+  },
+  "124": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "NLOT-COA-PAA-TR"
+  },
+  "1108": {
+    "ccf_level1": "CTXsp",
+    "ccf_level2": "BMA"
+  },
+  "538": {
+    "ccf_level1": "VS",
+    "ccf_level2": "VL"
+  },
+  "1227": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "CA1"
+  },
+  "135": {
+    "ccf_level1": "CTXsp",
+    "ccf_level2": "LA"
+  },
+  "597": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "897": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "1140": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "854": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "1273": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "1206": {
+    "ccf_level1": "TH",
+    "ccf_level2": "VAL"
+  },
+  "176": {
+    "ccf_level1": "TH",
+    "ccf_level2": "PO"
+  },
+  "583": {
+    "ccf_level1": "PAL",
+    "ccf_level2": "GPi"
+  },
+  "198": {
+    "ccf_level1": "TH",
+    "ccf_level2": "LH"
+  },
+  "729": {
+    "ccf_level1": "TH",
+    "ccf_level2": "VPM"
+  },
+  "34": {
+    "ccf_level1": "HY",
+    "ccf_level2": "ZI"
+  },
+  "894": {
+    "ccf_level1": "HY",
+    "ccf_level2": "DMH"
+  },
+  "627": {
+    "ccf_level1": "P",
+    "ccf_level2": "PG"
+  },
+  "991": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "ENT"
+  },
+  "887": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "ENT"
+  },
+  "522": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "PRE"
+  },
+  "1063": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "mfbs"
+  },
+  "464": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "PRE"
+  },
+  "1260": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "SUB"
+  },
+  "1078": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "POST"
+  },
+  "159": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "SUB"
+  },
+  "230": {
+    "ccf_level1": "MB",
+    "ccf_level2": "MRN"
+  },
+  "1212": {
+    "ccf_level1": "CB",
+    "ccf_level2": "SIM"
+  },
+  "951": {
+    "ccf_level1": "P",
+    "ccf_level2": "PB"
+  },
+  "858": {
+    "ccf_level1": "VS",
+    "ccf_level2": "V4"
+  },
+  "317": {
+    "ccf_level1": "MY",
+    "ccf_level2": "PRNc"
+  },
+  "769": {
+    "ccf_level1": "CB",
+    "ccf_level2": "SIM"
+  },
+  "394": {
+    "ccf_level1": "P",
+    "ccf_level2": "PCG"
+  },
+  "778": {
+    "ccf_level1": "CB",
+    "ccf_level2": "CUL"
+  },
+  "267": {
+    "ccf_level1": "CB",
+    "ccf_level2": "CUL"
+  },
+  "1": {
+    "ccf_level1": "CB",
+    "ccf_level2": "CUL"
+  },
+  "833": {
+    "ccf_level1": "CB",
+    "ccf_level2": "FL"
+  },
+  "469": {
+    "ccf_level1": "CB",
+    "ccf_level2": "SIM"
+  },
+  "1158": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "DG"
+  },
+  "82": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "DG"
+  },
+  "686": {
+    "ccf_level1": "MB",
+    "ccf_level2": "MRN"
+  },
+  "695": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "ProS"
+  },
+  "226": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "4": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "354": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "222": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "828": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "68": {
+    "ccf_level1": "STRv",
+    "ccf_level2": "OT"
+  },
+  "204": {
+    "ccf_level1": "LSX",
+    "ccf_level2": "LSr"
+  },
+  "818": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "637": {
+    "ccf_level1": "STRv",
+    "ccf_level2": "ACB"
+  },
+  "1033": {
+    "ccf_level1": "STRv",
+    "ccf_level2": "ACB"
+  },
+  "376": {
+    "ccf_level1": "STRv",
+    "ccf_level2": "ACB"
+  },
+  "636": {
+    "ccf_level1": "STRv",
+    "ccf_level2": "ACB"
+  },
+  "582": {
+    "ccf_level1": "PAL",
+    "ccf_level2": "OT"
+  },
+  "306": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-m"
+  },
+  "594": {
+    "ccf_level1": "MB",
+    "ccf_level2": "IC"
+  },
+  "1097": {
+    "ccf_level1": "CB",
+    "ccf_level2": "CENT"
+  },
+  "495": {
+    "ccf_level1": "MB",
+    "ccf_level2": "IC"
+  },
+  "432": {
+    "ccf_level1": "MY",
+    "ccf_level2": "PARN"
+  },
+  "85": {
+    "ccf_level1": "CB",
+    "ccf_level2": "AN"
+  },
+  "924": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "211": {
+    "ccf_level1": "HY",
+    "ccf_level2": "LHA"
+  },
+  "1296": {
+    "ccf_level1": "HY",
+    "ccf_level2": "AHN-ASO"
+  },
+  "675": {
+    "ccf_level1": "HY",
+    "ccf_level2": "PVH"
+  },
+  "155": {
+    "ccf_level1": "CB",
+    "ccf_level2": "CUL"
+  },
+  "215": {
+    "ccf_level1": "CB",
+    "ccf_level2": "CUL"
+  },
+  "853": {
+    "ccf_level1": "CB",
+    "ccf_level2": "SIM"
+  },
+  "707": {
+    "ccf_level1": "CB",
+    "ccf_level2": "CENT"
+  },
+  "758": {
+    "ccf_level1": "CB",
+    "ccf_level2": "CUL"
+  },
+  "1067": {
+    "ccf_level1": "CB",
+    "ccf_level2": "CENT"
+  },
+  "459": {
+    "ccf_level1": "CB",
+    "ccf_level2": "SIM"
+  },
+  "946": {
+    "ccf_level1": "CB",
+    "ccf_level2": "DEC"
+  },
+  "823": {
+    "ccf_level1": "P",
+    "ccf_level2": "PG"
+  },
+  "671": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "1041": {
+    "ccf_level1": "LSX",
+    "ccf_level2": "LSr"
+  },
+  "785": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "315": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "837": {
+    "ccf_level1": "LSX",
+    "ccf_level2": "LSv"
+  },
+  "902": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "1137": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "254": {
+    "ccf_level1": "LSX",
+    "ccf_level2": "MSC"
+  },
+  "688": {
+    "ccf_level1": "STRv",
+    "ccf_level2": "ACB"
+  },
+  "852": {
+    "ccf_level1": "PAL",
+    "ccf_level2": "MSC"
+  },
+  "385": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "cm"
+  },
+  "716": {
+    "ccf_level1": "STRv",
+    "ccf_level2": "ACB"
+  },
+  "470": {
+    "ccf_level1": "STRv",
+    "ccf_level2": "ACB"
+  },
+  "1173": {
+    "ccf_level1": "PAL",
+    "ccf_level2": "SI"
+  },
+  "808": {
+    "ccf_level1": "CB",
+    "ccf_level2": "AN"
+  },
+  "20": {
+    "ccf_level1": "CB",
+    "ccf_level2": "AN"
+  },
+  "959": {
+    "ccf_level1": "CB",
+    "ccf_level2": "AN"
+  },
+  "519": {
+    "ccf_level1": "CB",
+    "ccf_level2": "CUL"
+  },
+  "864": {
+    "ccf_level1": "CB",
+    "ccf_level2": "NOD"
+  },
+  "920": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "494": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "566": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOp"
+  },
+  "680": {
+    "ccf_level1": "LSX",
+    "ccf_level2": "LSr"
+  },
+  "343": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "187": {
+    "ccf_level1": "STRv",
+    "ccf_level2": "ACB"
+  },
+  "904": {
+    "ccf_level1": "STRv",
+    "ccf_level2": "ACB"
+  },
+  "518": {
+    "ccf_level1": "STRv",
+    "ccf_level2": "ACB"
+  },
+  "714": {
+    "ccf_level1": "PAL",
+    "ccf_level2": "MSC"
+  },
+  "147": {
+    "ccf_level1": "STRv",
+    "ccf_level2": "OT"
+  },
+  "767": {
+    "ccf_level1": "CB",
+    "ccf_level2": "CENT"
+  },
+  "300": {
+    "ccf_level1": "CB",
+    "ccf_level2": "SIM"
+  },
+  "580": {
+    "ccf_level1": "CB",
+    "ccf_level2": "CENT"
+  },
+  "639": {
+    "ccf_level1": "CB",
+    "ccf_level2": "AN"
+  },
+  "832": {
+    "ccf_level1": "MY",
+    "ccf_level2": "MV"
+  },
+  "849": {
+    "ccf_level1": "P",
+    "ccf_level2": "PCG"
+  },
+  "375": {
+    "ccf_level1": "P",
+    "ccf_level2": "PCG"
+  },
+  "644": {
+    "ccf_level1": "CB",
+    "ccf_level2": "SIM"
+  },
+  "276": {
+    "ccf_level1": "CB",
+    "ccf_level2": "SIM"
+  },
+  "395": {
+    "ccf_level1": "CB",
+    "ccf_level2": "CENT"
+  },
+  "1256": {
+    "ccf_level1": "CB",
+    "ccf_level2": "CENT"
+  },
+  "509": {
+    "ccf_level1": "CB",
+    "ccf_level2": "CENT"
+  },
+  "152": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOp"
+  },
+  "1120": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOs"
+  },
+  "1215": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "MOp"
+  },
+  "1080": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "234": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "TT"
+  },
+  "1183": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "PIR"
+  },
+  "940": {
+    "ccf_level1": "STRd",
+    "ccf_level2": "CP"
+  },
+  "871": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "lfbs"
+  },
+  "1106": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "DG"
+  },
+  "708": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "CA1"
+  },
+  "885": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "CA1"
+  },
+  "320": {
+    "ccf_level1": "TH",
+    "ccf_level2": "SPFp"
+  },
+  "448": {
+    "ccf_level1": "HY",
+    "ccf_level2": "TM"
+  },
+  "191": {
+    "ccf_level1": "HY",
+    "ccf_level2": "SUM"
+  },
+  "253": {
+    "ccf_level1": "HY",
+    "ccf_level2": "MM"
+  },
+  "179": {
+    "ccf_level1": "OLF",
+    "ccf_level2": "NLOT-COA-PAA-TR"
+  },
+  "492": {
+    "ccf_level1": "MB",
+    "ccf_level2": "MPT-NOT-OP-PPT"
+  },
+  "1276": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "lfbs"
+  },
+  "233": {
+    "ccf_level1": "TH",
+    "ccf_level2": "MD"
+  },
+  "40": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "SSp-bfd"
+  },
+  "1161": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "DG"
+  },
+  "732": {
+    "ccf_level1": "CB",
+    "ccf_level2": "UVU"
+  },
+  "821": {
+    "ccf_level1": "P",
+    "ccf_level2": "NLL"
+  },
+  "311": {
+    "ccf_level1": "Isocortex",
+    "ccf_level2": "VISpl"
+  },
+  "550": {
+    "ccf_level1": "HY",
+    "ccf_level2": "PVp"
+  },
+  "592": {
+    "ccf_level1": "HY",
+    "ccf_level2": "PH"
+  },
+  "869": {
+    "ccf_level1": "sAMY",
+    "ccf_level2": "BA-MEA"
+  },
+  "105": {
+    "ccf_level1": "HY",
+    "ccf_level2": "LHA"
+  },
+  "1259": {
+    "ccf_level1": "HY",
+    "ccf_level2": "PH"
+  },
+  "667": {
+    "ccf_level1": "HY",
+    "ccf_level2": "ZI"
+  },
+  "1247": {
+    "ccf_level1": "HY",
+    "ccf_level2": "ZI"
+  },
+  "348": {
+    "ccf_level1": "TH",
+    "ccf_level2": "PF"
+  },
+  "27": {
+    "ccf_level1": "TH",
+    "ccf_level2": "SPA"
+  },
+  "702": {
+    "ccf_level1": "MB",
+    "ccf_level2": "APN"
+  },
+  "339": {
+    "ccf_level1": "HY",
+    "ccf_level2": "ZI"
+  },
+  "560": {
+    "ccf_level1": "CTXsp",
+    "ccf_level2": "PA"
+  },
+  "917": {
+    "ccf_level1": "TH",
+    "ccf_level2": "GENv"
+  },
+  "472": {
+    "ccf_level1": "CTXsp",
+    "ccf_level2": "PA"
+  },
+  "1229": {
+    "ccf_level1": "TH",
+    "ccf_level2": "PF"
+  },
+  "419": {
+    "ccf_level1": "CTXsp",
+    "ccf_level2": "BMA"
+  },
+  "393": {
+    "ccf_level1": "TH",
+    "ccf_level2": "LP"
+  },
+  "1110": {
+    "ccf_level1": "RHP",
+    "ccf_level2": "SUB"
+  },
+  "163": {
+    "ccf_level1": "MB",
+    "ccf_level2": "APN"
+  },
+  "908": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "CA1"
+  },
+  "1250": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "CA3"
+  },
+  "116": {
+    "ccf_level1": "HY",
+    "ccf_level2": "ZI"
+  },
+  "529": {
+    "ccf_level1": "MB",
+    "ccf_level2": "RPF"
+  },
+  "766": {
+    "ccf_level1": "MB",
+    "ccf_level2": "ZI"
+  },
+  "477": {
+    "ccf_level1": "fiber tracts",
+    "ccf_level2": "mfbs"
+  },
+  "1070": {
+    "ccf_level1": "CTXsp",
+    "ccf_level2": "BLA"
+  },
+  "549": {
+    "ccf_level1": "MB",
+    "ccf_level2": "PH"
+  },
+  "935": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "CA3"
+  },
+  "153": {
+    "ccf_level1": "HY",
+    "ccf_level2": "PMd-PMv"
+  },
+  "811": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "CA3"
+  },
+  "427": {
+    "ccf_level1": "HIP",
+    "ccf_level2": "CA3"
+  },
+  "1275": {
+    "ccf_level1": "MB",
+    "ccf_level2": "MPT-NOT-OP-PPT"
+  },
+  "1002": {
+    "ccf_level1": "HY",
+    "ccf_level2": "LM"
+  },
+  "1170": {
+    "ccf_level1": "HY",
+    "ccf_level2": "MM"
+  }
+}
